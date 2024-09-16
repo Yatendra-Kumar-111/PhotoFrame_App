@@ -2,4 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="orange">#FF9E00</color>
+    <color name="green">#66D816</color>
+<!--    <color name="button_pressed_color">button_pressed_color</color>-->
+<!--    <color name="button_default_color">button_default_color</color>-->
 </resources>
